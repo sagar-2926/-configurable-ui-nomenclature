@@ -1,26 +1,21 @@
 {
-    "title":"This is homepage ",
-    "description":"This is homepage description ",
+    "title":"Sagar Restaurant",
+    "description":"Explore a symphony of tastes meticulously crafted by our culinary maestros. From sizzling appetizers that tease your palate to decadent desserts that sweetly conclude your meal, each dish is a masterpiece in its own right. Our menu is a celebration of diverse flavors, blending tradition ",
     "services":[
         {
-            "title":"Service 1 ",
-            "description":"Service 1 description"
+            "title":"Veg Thali 🥗",
+            "description":"Our Veg Thali isn't just a meal it's a celebration of the diverse and vibrant vegetarian culinary landscape.the richness of textures,",
+            "price":180
         },
         {
-            "title":"Service 2",
-            "description":"Service 2 description"
+            "title":"Mutton Thali 🍖",
+            "description":"Our Mutton Thali isn't just a meal; it's a celebration of the carnivorous palate. Each dish, carefully curated and passionately crafted, invites you to savor the richness of tradition and the thrill of culinary mastery",
+            "price":300
         },
         {
-            "title":"Service 3 ",
-            "description":"Service 3 description"
-        },
-        {
-            "title":"Service 4",
-            "description":"Service 4 description"
-        },
-        {
-            "title":"Service 5 ",
-            "description":"Service 5 description"
+            "title":"Biryani House 🥘 ",
+            "description":"Welcome to our culinary haven where we elevate the art of biryani to a symphony of flavors and aromas. Our biryani isn't just a dish; it's an experience that takes you on a journey through.",
+            "price":"250(unlimited)"
         }
         
 

@@ -8,7 +8,6 @@ import 'fontawesome'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
  <>
- <i class="fa-light fa-cloud-showers-heavy fa-bounce"></i>
  <Home />
  </>
 );
